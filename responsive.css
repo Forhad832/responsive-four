@@ -1,0 +1,365 @@
+@media (max-width:1400px){
+    .position {
+        position: relative;
+        bottom: 21px;
+    }
+}
+@media (max-width:1199px){
+    .work h3 {
+        font-size: 18px;
+    }
+    .best-works {
+        margin: auto;
+    }
+    .hhh h1 {
+        margin-left: 235px;
+    }
+    .about-details.eee.left {
+        position: absolute;
+        top: 1244px;
+        left: 550px;
+    }
+    .about-details small {
+        margin-left: 380px;
+    }
+    .about-details h3 {
+        margin-left: 288px;
+    }
+    .about-details p {
+       font-size: 14px;
+        margin-top: 21px;
+        margin-left: 53px;
+    }
+    .eee h1 {
+        margin-right: 14px;
+        margin-bottom: 37px;
+    }
+    .eee small {
+        margin-left: 2px;
+        margin-right: 0;
+    }
+    .eee h3 {
+        margin-left: 0px;
+        margin-right: 0;
+    }
+    .fa.fa-envelope-o {
+        margin-right: -13px;
+    }
+    .fa.fa-phone {
+        margin-right: 102px;
+    }
+}
+
+
+@media (max-width:1050px){
+    .nav ul {
+        right: 110px;
+    }
+    .bio {
+        padding: 20px;
+    }
+    .bio h1 {
+        font-size: 50px;
+    }
+    .work h3 {
+        font-size: 16px;
+    }
+    .best-works {
+        margin: auto;
+    }
+    .hhh h1 {
+        margin-left: 210px;
+        margin-bottom: 12px;
+        font-size: 35px;
+    }
+    .about-details.eee.left {
+        position: absolute;
+        top: 1151px;
+        left: 497px;
+    }
+    .about-details small {
+        margin-left: 335px;
+    }
+    .about-details h3 {
+        margin-left: 247px;
+    }
+    .about-details p {
+        margin-top: 58px;
+        margin-left: 9px;
+    }
+    .eee small {
+        margin-left: 0;
+        margin-right: 129px;
+    }
+    .eee h3 {
+        margin-left: 2px;
+        margin-right: 125px;
+    }
+    .eee h1 {
+        margin-right: 14px;
+        margin-bottom: 10px;
+    }
+
+}
+
+
+@media (max-width:992px){
+   
+   
+ 
+
+    .nav ul {
+        right: 65px;
+    }
+    .best-work {
+        width: 146px;
+        font-size: 18px;
+        padding: 17px;
+    }
+    .work h3 {
+        font-size: 17px;
+        letter-spacing: 0;
+    }
+    .work span a {
+        margin-left: 57px;
+    }
+    .about-details.left {
+        width: 100%;
+        margin-left: 0;
+    }
+    .about-details.eee.left {
+        position: relative;
+        top: 0;
+        left: 0;
+        bottom: 200px;
+    }
+    .contact-link {
+        margin-left: 0;
+    }
+    .about-details.eee.left {
+        text-align: left;
+    }
+    .vl {
+        display: none;
+    }
+
+    .hhh h1 {
+        text-align: right;
+        margin-right: 129px;
+    }
+    .about-details small {
+        margin-left: 705px;
+    }
+    .about-details h3 {
+        text-align: right;
+        margin-right: 132px;
+    }
+    .eee h1 {
+        margin-left: 120px;
+    }
+    .eee h3 {
+        margin-left: 120px;
+        text-align: left;
+    }
+    .eee small {
+        margin-left: 120px;
+        margin-right: 0;
+    }
+    .skill-item li {
+        margin-left: 120px;
+    }
+    .fa.fa-envelope-o {
+        margin-left: 120px;
+    }
+    .fa.fa-phone {
+        margin-left: 120px;
+    }
+    .position {
+        position: absolute;
+        top: 29px;
+        left: 68%;
+    }
+    .footer-nav ul li {
+        padding: 9px 19px;
+        top: 23px;
+        left: 4%;
+    }
+    .footer-nav {
+        position: absolute;
+        top: 2565px;
+    }
+    footer {
+        position: absolute;
+        top: 80px;
+    }
+    .about-details p {
+        font-size: 15px;
+        margin-top: 15px;
+        width: 400px;
+        text-align: right;
+        margin-left: 387px;
+    }
+}
+
+@media (max-width:768px){
+    .nav ul li a {
+        padding: 12px 10px;
+    }
+    .bio {
+        padding: 15px;
+    }
+    .bio h1 {
+        font-size: 37px;
+    }
+    .best-work {
+        width: 129px;
+        font-size: 15px;
+        padding: 11px;
+    }
+
+    .all {
+        padding: 66px 0;
+    }
+    .work {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 40px;
+        margin-left: 0;
+    }
+    .ppp {
+        margin-top: 185px;
+    }
+    .best-works {
+        width: 144px;
+        padding: 12px;
+        margin-left: 281px;
+    }
+    .work span a {
+        margin-left: 0px;
+    }
+    .about-details small {
+        margin-left: 481px;
+    }
+    .eee small {
+        margin-left: 120px;
+        margin-right: 0;
+    }
+    .about-details p {
+        margin-left: 199px;
+    }
+    .about-details h3 {
+        margin-right: 152px;
+    }
+    .skill-item li {
+        margin-left: 120px;
+    }
+    .fa.fa-envelope-o {
+        margin-top: 15px;
+    }
+    .footer-nav {
+        top: 2601px;
+    }
+    footer {
+        top: 80px;
+    }
+}
+@media (max-width:576px){
+    .bio h1 {
+        font-size: 30px;
+    }
+    .bio-image img {
+        width: 22%;
+    }
+    .best-works {
+        margin-left: 195px;
+    }
+    .hhh h1 {
+        margin-right: 96px;
+    }
+    .about-details small {
+        margin-left: 375px;
+    }
+    .about-details h3 {
+        margin-right: 95px;
+    }
+    .about-details p {
+        margin-left: 58px;
+    }
+    .footer-nav ul li {
+        padding: 7px 19px;
+        top: 13px;
+        left: 27%;
+    }
+    .position {
+        position: absolute;
+        top: 50px;
+        left: 193px;
+    }
+}
+@media (max-width:420px){
+    .nav ul {
+        right: 11px;
+    }
+    .bio h1 {
+        font-size: 21px;
+    }
+    .bio-image img {
+        width: 24%;
+
+    }
+    .best-works {
+        margin-left: 109px;
+    }
+    .hhh h1 {
+        text-align: right;
+        margin-right: 46px;
+        margin-left: 0;
+    }
+    .about-details small {
+        margin-left: 276px;
+    }
+    .about-details p {
+        width: 354px;
+        margin-left: 0;
+    }
+    .about-details h3 {
+        text-align: right;
+        margin-right: 53px;
+        margin-left: 70px;
+    }
+    .eee h1 {
+        margin-left: 44px;
+    }
+    .eee small {
+        margin-left: 44px;
+        margin-right: 0;
+    }
+    .eee h3 {
+        margin-left: 44px;
+        margin-right: 0;
+        text-align: left;
+    }
+    .skill-item li {
+        margin-left: 44px;
+    }
+    .fa.fa-envelope-o {
+        margin-left: 44px;
+    }
+    .fa.fa-phone {
+        margin-left: 44px;
+    }
+    .footer-nav ul li {
+        top: 7px;
+        left: 13%;
+    }
+    .position {
+        top: 50px;
+        left: 100px;
+    }
+    footer {
+        top: 80px;
+    }
+    footer p {
+        font-size: 15px;
+    }
+}
